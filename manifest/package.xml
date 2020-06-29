@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>CSVImport_ReadCSVHeader</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <name>CSV_Import__c</name>
+    </types>
+    <types>
+        <members>CSV_Import__c-CSV Import Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>CSV_Import_Record_Page</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>CSV_Import__c</members>
+        <name>CustomTab</name>
+    </types>
+    <version>48.0</version>
+</Package>
